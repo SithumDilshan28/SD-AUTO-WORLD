@@ -1,0 +1,7 @@
+_______________________________________________________ 
+Vehicle number: AAB8000
+Customer name: Sithum Dilshan
+Customer Phone Number: 0728521594
+Mileage: 1000 KM
+_______________________________________________________ 
+

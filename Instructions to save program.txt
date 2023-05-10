@@ -1,0 +1,15 @@
+•	Download SD AUTO WORLD.RAR Zip file and copy it
+
+•	Go to This PC and Double click Files (D:) 
+
+•	Paste, SD AUTO WORLD.RAR Zip in Files (D:)
+
+•	Extract, SD AUTO WORLD.RAR Zip in Files (D:)
+
+•	Double Click Vehicle system file and open it from Visual Studio 2015/2017/2019
+
+•	********File Path to save zip ("D:)**************
+
+
+
+.......CHECK USER MANUAL IN DOCUMENT FOR MORE INFO........

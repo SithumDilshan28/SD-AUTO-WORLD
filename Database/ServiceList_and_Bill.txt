@@ -1,0 +1,38 @@
+
+_______________________________________________________ 
+Vehicle number: AAB 8000
+Owner name: Sithum Dilshan
+Mileage: 1000 KM
+Handle by: Sampath
+_______________________________________________________ 
+service: Oil change
+Code: ID0001
+Quantity: 1
+Price: 2000
+
+service: Brake Checking
+Code: ID0002
+Quantity: 1
+Price: 3000
+
+Total Balance : 5000 LKR
+_______________________________________________________ 
+
+_______________________________________________________ 
+Vehicle number: AAA 9000
+Owner name: Shashini Wasana
+Mileage: 5000 KM
+Handle by: Anjana
+_______________________________________________________ 
+service: Eco Check
+Code: ID0007
+Quantity: 1
+Price: 8000
+
+service: Battery Checking
+Code: ID0006
+Quantity: 1
+Price: 4000
+
+Total Balance : 12000 LKR
+_______________________________________________________ 
