@@ -1,6 +1,6 @@
 # SD AUTO WORLD: Vehicle Service Management System
 
-SD AUTO WORLD is an innovative console-based program developed as a university project for the Fundamental in Programming module. It serves as a comprehensive vehicle service management system, designed to assist automotive service centers in their day-to-day operations. Built using C++, this program offers a user-friendly interface and a wide range of features to enhance efficiency and streamline the vehicle service process.
+SD AUTO WORLD is an innovative console-based program developed as a university project for the Fundamental in Programming module. It serves as a comprehensive vehicle service management system, designed to assist automotive service centers in their day-to-day operations. Built using C++, this program offers a user-friendly interface and a wide range of features to enhance efficiency and streamline the vehicle service process. 
 
 Key Features:
 
